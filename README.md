@@ -5,7 +5,7 @@
 ### TEST
 - [x] update "main" strategií z legacy na SOC
 - [x] založení Git projektu
-- [ ] záloha DB objektů
+- [x] záloha DB objektů
 - [ ] záloha parametrů z DB
 - [ ] export strategií
 
@@ -13,8 +13,8 @@
 - [ ] kontrola/doplnění DemandTypes
 - [ ] import TESTDEV strategií
 - [ ] import LOVs
-- [ ] import DB objektů
-- [ ] kontrola DB linků apod.
+- [x] import DB objektů
+- [x] kontrola DB linků apod.
 - [ ] aktualizace parametrů v DB
 
 ### PROD - migrace
