@@ -7,11 +7,11 @@
 - [x] založení Git projektu
 - [x] záloha DB objektů
 - [ ] záloha parametrů z DB
-- [ ] export strategií
+- [x] export strategií
 
 ### PROD - preproduktivizace
-- [ ] kontrola/doplnění DemandTypes
-- [ ] import TESTDEV strategií
+- [x] kontrola/doplnění DemandTypes
+- [x] import TESTDEV strategií
 - [ ] import LOVs
 - [x] import DB objektů
 - [x] kontrola DB linků apod.

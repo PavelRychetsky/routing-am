@@ -87,11 +87,10 @@ pz_investicni_akce
 r_fix_sr_br05_uprava
 r_fix_sr_br05_uprava_pan_5
 r_fix_sr_pilot_nd
-r_mob_sr 
 r_mob_sr
-reklamace_koRp_dotaz
+reklamace_korp_dotaz
 reklamace_r_fix
-reklamace_r_mob 
+reklamace_r_mob
 reklamace_smb_fix
 reklamace_smb_mob
 retence_fix_1382
